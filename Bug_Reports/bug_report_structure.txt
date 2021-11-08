@@ -1,0 +1,15 @@
+Bug report structure
+-Short description
+-Project
+-Application component
+-Nomber version
+-Severity
+-Priority
+-Status
+-Author
+-Assigned To project
+-OS/Service Pack/Browser + version...
+-Steps to Reproduce
+-Result
+-Expected result
+-Attachment file
